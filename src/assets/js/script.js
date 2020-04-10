@@ -161,7 +161,7 @@
       nav: false,
     });
   }
-
+  ///////////////////////////////
   var dark = false;
   $("#dark-it").click(function () {
     darkIt(".body-piling");
@@ -175,32 +175,66 @@
     return console.log(dark);
   });
 
-  $('#dark-it').click(function () {
-	darkIt('.body-piling');
-	dark = true;
-	return dark
+  $("#dark-it").click(function () {
+    darkIt(".body-piling");
+    dark = true;
+    return dark;
   });
 
-  $('#light-it').click(function () {
-	lightIt('.body-piling');
-	dark = false;
-	return dark
+  $("#light-it").click(function () {
+    lightIt(".body-piling");
+    dark = false;
+    return dark;
   });
 
+  function addBootstrapRTL() {
+    let head = document.head;
+
+    let link = document.createElement("link");
+
+    link.rel = "stylesheet";
+    link.id = "rtl-id-2";
+    link.href = "css/bootstrap-rtl.css";
+    head.appendChild(link);
+  }
+
+  function addStyleRTL() {
+    let head = document.head;
+    let link = document.createElement("link");
+
+    link.rel = "stylesheet";
+    link.id = "rtl-id";
+    link.href = "css/style-rtl.css";
+    head.appendChild(link);
+  }
+
+  $("#ar").click(function () {
+    addBootstrapRTL();
+    addStyleRTL();
+    $("#ar").css({ display: "none" });
+    $("#en").css({ display: "inline" });
+  });
+
+  $("#en").click(function () {
+    document.getElementById("rtl-id").remove();
+    document.getElementById("rtl-id-2").remove();
+    $("#en").css({ display: "none" });
+    $("#ar").css({ display: "inline" });
+  });
   // Animate
   function darkIt(element) {
-	$(element).addClass('is-dark');
-	$('#dark-it').css({ display: 'none' });
-	$('#light-it').css({ display: 'inline' });
-	/* var wait = setTimeout(function(){
+    $(element).addClass("is-dark");
+    $("#dark-it").css({ display: "none" });
+    $("#light-it").css({ display: "inline" });
+    /* var wait = setTimeout(function(){
 		$(element).removeClass('animated '+animation);
 	  }, 1000); */
   }
   function lightIt(element) {
-	$(element).removeClass('is-dark');
-	$('#dark-it').css({ display: 'inline' });
-	$('#light-it').css({ display: 'none' });
-	/* var wait = setTimeout(function(){
+    $(element).removeClass("is-dark");
+    $("#dark-it").css({ display: "inline" });
+    $("#light-it").css({ display: "none" });
+    /* var wait = setTimeout(function(){
 		$(element).removeClass('animated '+animation);
 	  }, 1000); */
   }

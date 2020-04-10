@@ -9,14 +9,20 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
     <!-- CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/css/bootstrap-rtl.css" rel="stylesheet" />
     <link href="assets/css/jquery.pagepiling.css" rel="stylesheet" />
     <link href="assets/css/owl.carousel.min.css" rel="stylesheet" />
     <link href="assets/css/owl.theme.default.min.css" rel="stylesheet" />
     <link href="assets/css/animate.min.css" rel="stylesheet" />
+    <link href="assets/css/bootstrap-rtl.css" rel="stylesheet" />
+    <link href="assets/css/style-rtl.css" rel="stylesheet" />
 
-    <!-- Main CSS -->
-    <link href="assets/css/style.css" rel="stylesheet" />
+    <!-- Main CSS !-->
+    <!-- <link href="assets/css/style.css" rel="stylesheet" /> -->
+
+    <base href="/" />
   </head>
+
   <body class="body-piling">
     <app-root></app-root>
     <div class="wrapper">
@@ -40,9 +46,15 @@
 
           <div class="menu">
             <div class="menu-lang">
-              <a href="#" class="menu-lang-item active">Eng.</a>
-              <a href="#" class="menu-lang-item">Fra.</a>
-              <a href="#" class="menu-lang-item">Ara.</a>
+              <a
+                href="#"
+                class="menu-lang-item active"
+                style="display: none;"
+                id="en"
+                >Eng.</a
+              >
+
+              <a href="#" class="menu-lang-item" id="ar">Ara.</a>
               <a href="#" class="dark-mood" id="dark-it">Dark Mode</a>
               <a
                 href="#"
@@ -1340,7 +1352,9 @@
                 <a href="#"><i class="icon-dribbble"></i></a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/eslam-dahshan-b6131a164/"
+                <a
+                  target="_blank"
+                  href="https://www.linkedin.com/in/eslam-dahshan-b6131a164/"
                   ><i class="icon-linkedin"></i
                 ></a>
               </li>
@@ -1449,14 +1463,17 @@
     </script>
     <script src="assets/js/smoothscroll.js"></script>
     <script src="assets/js/popper.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
     <script src="assets/js/jquery.pagepiling.min.js"></script>
     <script src="assets/js/jquery.viewport.js"></script>
     <script src="assets/js/jquery.countdown.min.js"></script>
+    <script src="assets/js/jquery.validate.min.js"></script>
+
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+
     <script src="assets/js/typed.min.js"></script>
     <script src="assets/js/parallax.min.js"></script>
-    <script src="assets/js/jquery.validate.min.js"></script>
+
     <script src="assets/js/script.js"></script>
   </body>
 </html>

@@ -193,7 +193,7 @@ a:hover .icon-dribbble {
 }
 
 .icon-chat {
-  background-image: url("../img/icon-chat.png");
+  background-image: url("../assets/img/icon-chat.png");
   font-size: 1.5rem;
 }
 
@@ -897,7 +897,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape1 > .inside {
-  background-image: url("../img/shape1.png");
+  background-image: url("../assets/img/shape1.png");
   padding-bottom: 106.02409639%;
 }
 
@@ -908,7 +908,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape1-intro > .inside {
-  background-image: url("../img/shape1-intro.png");
+  background-image: url("../assets/img/shape1-intro.png");
   padding-bottom: 104.11764706%;
 }
 
@@ -919,7 +919,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape2 > .inside {
-  background-image: url("../img/shape2.png");
+  background-image: url("../assets/img/shape2.png");
   padding-bottom: 99.21875%;
 }
 
@@ -930,7 +930,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape3 > .inside {
-  background-image: url("../img/shape3.png");
+  background-image: url("../assets/img/shape3.png");
   padding-bottom: 112.5%;
 }
 
@@ -941,7 +941,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape3-intro > .inside {
-  background-image: url("../img/shape3-intro.png");
+  background-image: url("../assets/img/shape3-intro.png");
   padding-bottom: 115.78947368%;
 }
 
@@ -952,7 +952,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape4 > .inside {
-  background-image: url("../img/shape4.png");
+  background-image: url("../assets/img/shape4.png");
   padding-bottom: 90.16393443%;
 }
 
@@ -963,7 +963,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape4-intro > .inside {
-  background-image: url("../img/shape4-intro.png");
+  background-image: url("../assets/img/shape4-intro.png");
   padding-bottom: 91.80327869%;
 }
 
@@ -974,7 +974,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape5 > .inside {
-  background-image: url("../img/shape5.png");
+  background-image: url("../assets/img/shape5.png");
   padding-bottom: 115.38461538%;
 }
 
@@ -985,7 +985,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape5-intro > .inside {
-  background-image: url("../img/shape5-intro.png");
+  background-image: url("../assets/img/shape5-intro.png");
   padding-bottom: 112.38938053%;
 }
 
@@ -996,7 +996,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape6 > .inside {
-  background-image: url("../img/shape6.png");
+  background-image: url("../assets/img/shape6.png");
   padding-bottom: 87.33974359%;
 }
 
@@ -1007,7 +1007,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape7 > .inside {
-  background-image: url("../img/shape7.png");
+  background-image: url("../assets/img/shape7.png");
   padding-bottom: 98.08743169%;
 }
 
@@ -1018,7 +1018,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape7-intro > .inside {
-  background-image: url("../img/shape7-intro.png");
+  background-image: url("../assets/img/shape7-intro.png");
   padding-bottom: 98.28009828%;
 }
 
@@ -1029,7 +1029,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape8 > .inside {
-  background-image: url("../img/shape8.png");
+  background-image: url("../assets/img/shape8.png");
   padding-bottom: 100%;
 }
 
@@ -1040,7 +1040,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape9 > .inside {
-  background-image: url("../img/shape9.png");
+  background-image: url("../assets/img/shape9.png");
   padding-bottom: 120%;
 }
 
@@ -1051,7 +1051,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape9-intro > .inside {
-  background-image: url("../img/shape9-intro.png");
+  background-image: url("../assets/img/shape9-intro.png");
   padding-bottom: 120%;
 }
 
@@ -1062,7 +1062,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape10 > .inside {
-  background-image: url("../img/shape10.png");
+  background-image: url("../assets/img/shape10.png");
   padding-bottom: 94.73684211%;
 }
 
@@ -1073,7 +1073,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape10-intro > .inside {
-  background-image: url("../img/shape10-intro.png");
+  background-image: url("../assets/img/shape10-intro.png");
   padding-bottom: 87.5%;
 }
 
@@ -1084,7 +1084,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape11 > .inside {
-  background-image: url("../img/shape11.png");
+  background-image: url("../assets/img/shape11.png");
   padding-bottom: 89.47368421%;
 }
 
@@ -1095,7 +1095,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape11-intro > .inside {
-  background-image: url("../img/shape11-intro.png");
+  background-image: url("../assets/img/shape11-intro.png");
   padding-bottom: 83.33333333%;
 }
 
@@ -1106,7 +1106,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape12 > .inside {
-  background-image: url("../img/shape12.png");
+  background-image: url("../assets/img/shape12.png");
   padding-bottom: 107.14285714%;
 }
 
@@ -1117,7 +1117,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape12-intro > .inside {
-  background-image: url("../img/shape12-intro.png");
+  background-image: url("../assets/img/shape12-intro.png");
   padding-bottom: 107.14285714%;
 }
 
@@ -1128,7 +1128,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape13 > .inside {
-  background-image: url("../img/shape13.png");
+  background-image: url("../assets/img/shape13.png");
   padding-bottom: 100%;
 }
 
@@ -1141,12 +1141,12 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 
 .shape14 > .inside,
 .shape14-intro > .inside {
-  background-image: url("../img/shape14.png");
+  background-image: url("../assets/img/shape14.png");
   padding-bottom: 114.285714289%;
 }
 
 .shape14-intro > .inside {
-  background-image: url("../img/shape14-intro.png");
+  background-image: url("../assets/img/shape14-intro.png");
 }
 
 .shape15 {
@@ -1156,7 +1156,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape15 > .inside {
-  background-image: url("../img/shape15.png");
+  background-image: url("../assets/img/shape15.png");
   padding-bottom: 100%;
 }
 
@@ -1167,14 +1167,14 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 }
 
 .shape16 > .inside {
-  background-image: url("../img/shape16.png");
+  background-image: url("../assets/img/shape16.png");
   padding-bottom: 114.28571429%;
 }
 
 .slide-ornament {
   display: block;
   width: 31.875%;
-  background: url("../img/ornament.png") 0 0 no-repeat;
+  background: url("../assets/img/ornament.png") 0 0 no-repeat;
   background-size: 100%;
   position: absolute;
   left: 65.20833333%;
@@ -1567,7 +1567,7 @@ h3.slide-title {
 }
 
 .photo-bg-education {
-  background-image: url("../img/slide4-1-bg.png");
+  background-image: url("../assets/img/slide4-1-bg.png");
 }
 
 .education-image {
@@ -1577,7 +1577,7 @@ h3.slide-title {
 }
 
 .photo-bg-experience {
-  background-image: url("../img/slide4-2-bg.png");
+  background-image: url("../assets/img/slide4-2-bg.png");
 }
 
 .experience-image {
@@ -1976,7 +1976,7 @@ h3.slide-title {
   right: 0;
   height: 0;
   padding-bottom: 14%;
-  background: url("../img/contact-ornament.png") 50% 100% no-repeat;
+  background: url("../assets/img/contact-ornament.png") 50% 100% no-repeat;
   background-size: cover;
 }
 
@@ -2254,7 +2254,7 @@ h3.slide-title {
 }
 
 .is-dark .shape6 > .inside {
-  background-image: url("../img/shape6-dark.png");
+  background-image: url("../assets/img/shape6-dark.png");
 }
 
 .is-dark .image-card-dark {
@@ -2271,7 +2271,7 @@ h3.slide-title {
 }
 
 .is-dark .slide-ornament {
-  background-image: url("../img/ornament-dark.png");
+  background-image: url("../assets/img/ornament-dark.png");
 }
 
 .is-dark .owl-theme .owl-dots .owl-dot.active span,
@@ -2303,7 +2303,7 @@ h3.slide-title {
   width: 25px;
   height: 25px;
   border-radius: 25px;
-  background: url("../img/icon-purchase.png") 50% 50% no-repeat;
+  background: url("../assets/img/icon-purchase.png") 50% 50% no-repeat;
   background-size: cover;
 }
 
@@ -2328,7 +2328,7 @@ h3.slide-title {
 }
 
 .slide-photo-intro {
-  background-image: url("../img/bg-notebook.png");
+  background-image: url("../assets/img/bg-notebook.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 0;

@@ -555,7 +555,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 .body-menu-opened .menu .social,
 .body-menu-opened .menu .menu-footer {
   opacity: 1;
-  transform: translateY(0);
+  transform: translateY(1);
 }
 
 .menu .menu-lang {
@@ -571,13 +571,14 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 .menu-lang-item {
   display: inline-block;
   margin-right: 1.5rem;
+  text-align: left;
   color: #a3a4a8;
   text-decoration: none;
 }
 
 .dark-mood {
   display: inline-block;
-  margin-left: 4.5rem;
+  margin-right: 1.5rem;
   color: #32324c;
   text-decoration: none;
   font-size: 0.95rem;
@@ -804,7 +805,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 
 @media (min-width: 1400px) {
   .progress-nav {
-    left: 4.5rem;
+    left: 3.5rem;
   }
 }
 
@@ -1295,11 +1296,6 @@ h3.slide-title {
   position: absolute;
   left: 0;
   top: 100%;
-  margin-top: 0.25rem;
-  height: 3px;
-  width: 0;
-  background-color: #f69683;
-  transition: all 0.3s ease-in-out;
 }
 
 .primary-link a:hover:before {

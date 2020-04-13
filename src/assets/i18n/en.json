@@ -1,0 +1,127 @@
+{
+  "NavBar": {
+    "F-Name": "Eslam",
+    "L-Name": "Dahshan",
+    "Eng": "English",
+    "Ara": "Arabic",
+    "Dark-Mode": "Dark Mode",
+    "Light-Mode": "Light Mode",
+
+    "About": "About",
+    "Services": "Services",
+    "Skills": "Skills",
+    "Resume": "Resume",
+    "Portfolio": "Portfolio",
+    "Awards": "Awards",
+    "Testimonials": "Testimonials",
+    "Clients": "Clients",
+    "Contact": "Contact",
+    "CopyRights": "CopyRights",
+    "Phone": "+(20)1555539678"
+  },
+  "Content": {
+    "About-me": "About me",
+    "P1": "Hello, I’m",
+    "P2": "I’m a Front End Web Designer",
+    "P3": "I will help you ",
+    "P4": "build your brand",
+    "P5": "and",
+    "P5.1": "grow your business",
+    "P6": "I create clarifying strategy, beautfil websites and identity designs.",
+    "P7": " Web Design - Product Design - Digital Painting - Artist -"
+  },
+  "Services": {
+    "My-Services": "My Services",
+    "P1": "Build my own business",
+    "P2": "Whether you are working for a new company or have a product, I am happy to help you and your team",
+    "P3": "To solve most of your challenges",
+    "P4": " proplems",
+    "UI": "UI & UX designer",
+    "BR": "Brand designe",
+    "WB": "Web app designe",
+    "": ""
+  },
+  "Skills": {
+    "Skills": "my featured skills",
+    "Use": "I’m using",
+    "Methods": "design methods.",
+    "P1": " I specialize in helping early stage startups validate their riskiest assumptions using",
+    "P2": "leading design methods",
+    "": ""
+  },
+  " Education": {
+    "EDU": "Education",
+    "COLL": "College",
+    "FCI": " Faculty of Computers and Artificial Intelligence BNS",
+    "JAN": "Jan 2018 - 2022",
+    "GRAD": "I'am in second grade with over all",
+    "GPA": "GPA: very good (2.75)",
+    "ABOUT": "About me",
+    "BNS": " I'am form Benisuef Somosta city I work 10 hours daily",
+    "AGE": " Age : 20",
+    "EX": "Experience",
+    "WB": "Junior Web Designer",
+    "NORK": "Market Studios, Ltd., Norwalk, California",
+    "PRE": "Jan 2018 - Present",
+    "P1": "Created design theme & graphics for marketing and sales presentations, training videos and websites."
+  },
+  "PHOTOS": {
+    "My-portfolio": "My portfolio",
+    "some": "Some of my",
+    "LOGO": "Polychromatic Logo",
+    "BED": "Branding Design",
+    "TEXTBOOX": "TextBook Redesign Acquisition",
+    "WEBD": "Web Design",
+    "CLEMO": "Clemo – Fashion Template"
+  },
+  "Awards": {
+    "AWARD": "my awards/honors",
+    "PRO": "Professional awards and",
+    "HO": "honors",
+    "HOW": ". However, no",
+    "DECIDING": "Deciding where to place an Awards and Honors section will depend on",
+    "FORMAT": "the resume format",
+    "HOWEVER": ". However, no matter how impressive this section is, it should of your resume.",
+    "WANDRA": " wandra design awards",
+    "BEST": "For Best Web Design App",
+    "INVOTIVE": "Inovative ideas design Awards",
+    "FOR": " For Most Loved Illustration",
+    "CREATIVE": "creative Design awards",
+    "PROJ": "For Best Web Project Design"
+  },
+  "TESTO": {
+    "TESTOMO": "testimonials",
+    "P1": "It really saves me time and effort Ethant is...",
+    "P2": "nice one. It's really wonderful. It's just amazing. Ethant is worth much more than I paid. This is really simply into unbelievable! I just can't get enough of him. I want to get a T-Shirt with Ethant on it so I can show it off to everyone. It's all good.",
+    "NAME": "Mallory Julian",
+    "JOP": "CEO and Co Founder at Husena"
+  },
+  "CLIENTS": {
+    "CLI":"my clients",
+    "PARE":"partners",
+    "COLL":"Clients and collaborators.",
+    "OVER":"Over the past ten years, I've been fortunate to work with and for people from some",
+    "AMAZ":"amazing organizations",
+    "TOT":"total clients",
+    "COUN":"In over 25 countries",
+    "TRUST":"trusted sponsors",
+    "RANKED":"Featured by top ranked brand",
+    "SENSI":"sensitve feedback",
+    "QUALI":"At project quality"
+  },
+  "CONTACT":{
+    "CONT":"contact me",
+    "READY":"Are you ready to",
+    "OPPO":"I’m always interested in hearing about new projects and opportunities.",
+    "CAN":"You can",
+    "TELL":"tell me about the problems",
+    "SOLVE":"you aretrying to solve. I'd love to listen and see if there's anything I can do to help you.",
+    "SUBMIT":"submit a request",
+    "ADDRESS":" 26 Juli St. Somosta, Benisuef",
+    "COPTRI":"© Eslam 2020.",
+    "CHAT":"Let’s chat",
+    "THANK":"Thank You, your message is successfully sent!",
+    "SORRY":"Sorry, something went wrong",
+    "CONTACT":"Contact me"
+  }
+}
